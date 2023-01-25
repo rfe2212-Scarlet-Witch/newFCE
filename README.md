@@ -27,13 +27,13 @@
 --Standard Size
 --Display 2 tiles
 ---If > 2 Reviews listed, then 'More Reviews' button will appear.
-----More Reviews on click shows 2 more reviews, below original reviews.  
+----More Reviews on click shows 2 more reviews, below original reviews.
 -----If there are more reviews still to be loaded, 'More Reviews' button will remain.
 -----If no more reviews, button will disappear
---Reviews tab will fit on the size of one screen, with more reviews being scrollable. 
----If not enough for a scroll to be needed, no scroll 
---If no reviews have been submitted, list will collapse, button to submit new review will appear near top of module. 
---Future Enhancement exists here. 
+--Reviews tab will fit on the size of one screen, with more reviews being scrollable.
+---If not enough for a scroll to be needed, no scroll
+--If no reviews have been submitted, list will collapse, button to submit new review will appear near top of module.
+--Future Enhancement exists here.
 
 -Individual Review Tile
 --Each review will be on single tile containing
@@ -47,3 +47,16 @@ Does changes here get pulled to main or fork?
 
 USAGE
 --------------------------------------------------------------------------------------------------------
+
+
+
+## Install and setup 🧶 Yarn.
+To manage our dependencies we will be using a package manager called 🧶 Yarn. You can learn more about it [here](https://yarnpkg.com/).
+
+### Yarn Installation
+```bash
+npm i -g yarn
+```
+To begin (after installing yarn); Type ( yarn install ) into the terminal and hit enter; This will install all the dependenices.
+
+Afterwards to begin devlopment run (yarn start) then run (yarn dev) to see in the output in local host 300.
