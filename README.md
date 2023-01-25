@@ -22,7 +22,23 @@
 ---quantity selector dropdown (integer will be however much the item has in stock but will be <=15) (if size has not yet been selected, this dropdown will say "-" and be disabled) (once a size is selected, the dropdown should display "1")
 ---add to cart (if size has not been selected, this button will display a dropdown stating “Please select size”.) (if there is no stock, the button should be hidden) (if both a size and quantity are selected, the button will add items to the users cart)
 
-1.2 Overview
+1.2 Ratings and Reviews
+-List of Reviews
+--Standard Size
+--Display 2 tiles
+---If > 2 Reviews listed, then 'More Reviews' button will appear.
+----More Reviews on click shows 2 more reviews, below original reviews.  
+-----If there are more reviews still to be loaded, 'More Reviews' button will remain.
+-----If no more reviews, button will disappear
+--Reviews tab will fit on the size of one screen, with more reviews being scrollable. 
+---If not enough for a scroll to be needed, no scroll 
+--If no reviews have been submitted, list will collapse, button to submit new review will appear near top of module. 
+--Future Enhancement exists here. 
+
+-Individual Review Tile
+--Each review will be on single tile containing
+	-
+
 
 1.3 Q & A
 
