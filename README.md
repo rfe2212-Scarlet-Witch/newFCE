@@ -1,4 +1,4 @@
-1.1 Overview 
+1.1 Overview
 -Image gallery
 --Images
 
@@ -8,7 +8,7 @@
 ---product category
 ---product title
 ---price (updates according to current style of item selected) (every item will have a default style)
----product overview 
+---product overview
 ---share on social media buttons
 
 -Style Selector
@@ -27,5 +27,3 @@
 
 USAGE
 --------------------------------------------------------------------------------------------------------
-
-1.3 Q & A
